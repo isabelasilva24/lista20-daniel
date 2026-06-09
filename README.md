@@ -4,8 +4,8 @@
 
 **Disciplina:** Algoritmos e Programação
 **Professor:** Daniel Henrique Matos de Paiva
-**Aluno(s):** ___________________________________________
-**Data:** ****/****/____
+**Aluno(s):** Isabela da Silva Freitas
+**Data:** 09/06/2026
 
 ---
 
